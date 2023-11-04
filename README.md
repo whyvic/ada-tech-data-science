@@ -1,4 +1,4 @@
-# ada-tech-data-science
+# Ada Tech: Data Science
 
 ## Primeira fase: git e versionamento de código
 ### Git:
@@ -11,7 +11,8 @@
 - **git add**: serve para adicionar as mudanças do arquivo para o staged.
 - **git diff**: serve para visualizar as linhas que foram alteradas.
 - **git diff --staged**: serve para visualizar as linhas alteradas que já recebram o git add
-
+- **git log**: serve para visualizar as alterações já feitas no repositório. São um tipo de histórico.
+- **git restore nome_do_arquivo**: serve para remover alterações que ainda não foram commitadas.
 ### Estados de arquivo
 
 1. **Unmodified**: arquivo ja mapeado, ou seja, ja esta no staged (já receberam um commit). Eles estão no ultimo estado commitado.
